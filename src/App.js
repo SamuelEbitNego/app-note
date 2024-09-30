@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import NoteApp from './components/NoteApp';
 
 function App() {
   return (
